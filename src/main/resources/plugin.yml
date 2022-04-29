@@ -1,0 +1,5 @@
+name: BlockRegen
+version: ${project.version}
+main: net.wither.blockregen.BlockRegen
+depend: [ MassiveCore, WorldGuard ]
+softdepend: [ AdvanceEnchantments, Quest ]
